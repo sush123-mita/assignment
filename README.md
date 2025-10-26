@@ -1,4 +1,5 @@
 # 🚀 Interactive Portfolio UI — Next.js 15 + Tailwind CSS
+#deployment link :https://assignment-iota-plum.vercel.app/
 
 A sleek, modern, and responsive portfolio-style interface built using **Next.js 15 (App Router)** and **Tailwind CSS**.  
 This project features smooth hover transitions, image zoom and color effects, and dynamic routing — all wrapped in a dark, minimal aesthetic.
@@ -19,6 +20,9 @@ This project features smooth hover transitions, image zoom and color effects, an
 - 🌑 **Dark Mode UI:** Clean dark theme with subtle color highlights.
 
 ---
+
+<img width="1741" height="892" alt="image" src="https://github.com/user-attachments/assets/579c8133-f911-440c-bf05-8463b5d28869" />
+
 
 ## 🏗️ Tech Stack
 
